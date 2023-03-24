@@ -1,3 +1,6 @@
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/IParraMartin/BasqueNews-Dataset)
+![GitHub repo size](https://img.shields.io/github/repo-size/IParraMartin/BasqueNews-Dataset?color=red)
+
 # BasqueNews-Dataset
 A folder containing news headers, summaries and descriptions in Basque from Basque newspapers.
 
